@@ -3,3 +3,4 @@ This project is creating the model to predict the Sales Promotion Results (Yes /
 (Supervised Learning: Classification)
 
 
+# How to start
